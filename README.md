@@ -38,3 +38,21 @@ This project builds a **business-safe, explainable ML system** to predict weekly
 ---
 
 ## Repository Structure
+```
+walmart-demand-forecasting-xgboost/
+├── data/ # Dataset description (no raw data uploaded)
+├── notebooks/ # Final training notebook
+├── models/ # Trained model & feature list
+├── reports/ # Project report & documentation
+├── app/ # Streamlit dashboard (planned)
+├── images/ # Plots & SHAP visuals
+└── requirements.txt
+```
+
+---
+
+## Next Steps
+- Interactive Streamlit dashboard for planners
+- Scenario-based demand simulation
+- Inventory optimization layer
+
